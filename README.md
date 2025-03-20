@@ -10,7 +10,7 @@
 ### Instructions
 
 1. `npm i`
-2. create .env file 
+2. create `.env` file 
 
 ### Environment variables
 
